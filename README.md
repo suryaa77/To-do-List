@@ -7,7 +7,6 @@ This is a simple and responsive **To-Do List web application** built by **Surya*
 ## 🔗 Live Demo
 
 👉 [Click here to use the To-Do List](https://suryaa77.github.io/To-do-List/)  
-*(Deployed using GitHub Pages)*
 
 ---
 
